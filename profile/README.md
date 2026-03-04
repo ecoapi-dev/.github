@@ -79,11 +79,7 @@ EcoAPI is split across three repos under the [`ecoapi-dev`](https://github.com/e
 
 ### Install the Extension
 
-Search for **EcoAPI** in the VS Code Marketplace, or install from the command line:
-
-```bash
-code --install-extension ecoapi.ecoapi
-```
+Follow extension download instructions in [`extension`](https://github.com/ecoapi-dev/extension) README.md or our official documentation site at [ecoapi.dev](https://ecoapi.dev).
 
 ### Run a Scan
 
