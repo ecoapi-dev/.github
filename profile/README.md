@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/265149685?s=200&v=4" alt="EcoAPI Logo" width="120" />
-</p>
-
 <h1 align="center">Recost</h1>
 
 <p align="center">
