@@ -1,8 +1,12 @@
+<div align="center">
+
 # ReCost
 Know what your APIs cost before they cost you.
-
 Website · Extension · API · Docs
 
+</div>
+
+&nbsp;
 &nbsp;
 
 ## What is ReCost?
